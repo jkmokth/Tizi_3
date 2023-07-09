@@ -1,0 +1,29 @@
+body{
+    background-color: rgba(48, 213, 200, 0.2);
+    width:50%;
+    margin: auto;
+    text-align: center;
+}
+html{
+    margin:0;
+    background-image:url("./image/felipe-rodriguez-ViYdmYVYB2M-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+*{
+    box-sizing: border-box;
+}
+.circle{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    text-align: center;
+    display:inline-block;
+    margin:10px;
+    color:white;
+    padding-top: 14px;
+    border:solid 1px white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
